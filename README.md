@@ -1,10 +1,16 @@
 # Python-Reverse-Sheller
 This is a python reverse Sheller
 
+![rshell1 (4)](https://user-images.githubusercontent.com/79846829/137851898-675c6b73-7dd7-4bf3-9a54-278d2a130c4e.png)
+
+
+![rshell1 (3)](https://user-images.githubusercontent.com/79846829/137851888-a75bb3a1-e658-4040-bad6-6105ebfa5b10.png)
+
+
 # reverse-shell
 <h1>Reverse Shell with Python 3</h1>
 
-![Normal vs Reverse](reverse1.png)
+
 
 <b>Purpose of Reverse Shell:</b>
 Connect to someone's computer from anywhere in the world and control it remotely.
@@ -18,7 +24,6 @@ Connect to someone's computer from anywhere in the world and control it remotely
 - set up a server (server.py) that 'listens' for incoming client connections and have the target computer (client.py) connect to us.
 - client's operating system thinks that since the client initiated the connection to the server, it should be a safe connection. 
 
-![Connection](reverse2.gif)
 
 <b>Uses:</b>
 - helping a friend with computer problems by reverse shell into his computer remotely on your computer.
