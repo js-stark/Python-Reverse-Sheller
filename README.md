@@ -1,6 +1,8 @@
 # Python-Reverse-Sheller
 This is a python reverse Sheller
 
+<h1>All the Functionalities in my Python Reverse Shell Program<h1>
+
 ![rshell1 (4)](https://user-images.githubusercontent.com/79846829/137851898-675c6b73-7dd7-4bf3-9a54-278d2a130c4e.png)
 
 
@@ -8,7 +10,8 @@ This is a python reverse Sheller
 
 
 # reverse-shell
-<h1>Reverse Shell with Python 3</h1>
+<h1>Reverse Shell with Python 2</h1>
+<h1>Can Implement in Python 3 with minor changes</h1>
 
 
 
